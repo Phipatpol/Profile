@@ -1,0 +1,68 @@
+/* CSS files --> experiences.html */
+body{
+    background-size:  1920px 1080px;
+    background-image: url("HYUtdS.jpg");
+}
+.table-menu{
+    width:100%; 
+    text-align: center;
+    background-color: #3c9e6d94;
+}
+h1{
+    text-align: center; 
+    font-family: cursive;
+    background-color: #fbfffb9d;
+} 
+h4{
+    text-align: center; color: rgb(59, 161, 76);
+    font-family: Aclonica; 
+    font-weight: normal;
+}
+h5{ 
+    text-align: center; color: rgb(255, 255, 255);
+    font-family: Aclonica; 
+    font-weight: normal;
+}
+.table-content{
+    margin-left: auto; 
+    margin-right: auto;
+    background-color: #fefdcaa4;
+}
+.ul-circle{
+    list-style-type:circle;
+    background-color: #ffcfdfb2;
+} 
+.ul-disc{
+    list-style-type:disc;
+    background-color: #FFCFDF;
+}
+.ul-square{
+    list-style-type:square;
+    background-color: #FFCFDF;
+}
+.ol-order{
+    background-color: #FFCFDF;
+}
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #17b32f 5%, #07cdeb 100%);
+	background-color:#17b32f;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 36px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #07cdeb 5%, #17b32f 100%);
+	background-color:#07cdeb;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
